@@ -6,7 +6,7 @@
 🌱 **Projects**:
 
 - `🔑` **`Discord Keylogger`**<br>
-\\___[  Simple keylogger using discord as a C2<br>
+\\___[  Bare bones keylogger using discord as a C2<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
 
 - `🌙` **`NightFall`**<br>
@@ -18,8 +18,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`,
 
 - `💰` **`Zenny Stealer (NOW PRIVATED) `**<br>
-\\___[  Open Source python stealer. For educatinal purposes no obfuscation fully detected by AVs.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
+\\___[  Open Source stealer. For educatinal purposes no obfuscation fully detected by AVs.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Rust`,
 
 
 
