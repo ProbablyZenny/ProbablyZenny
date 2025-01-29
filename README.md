@@ -1,6 +1,6 @@
 💬 **Zenny**: College / cybersecurity student and an offensive security enthusiast focusing on offensive development, operating system internals, reverse engineering, and red teaming.
 
-🌱 **Public Projects**:
+🌱 **Projects**:
 
 - `🔑` **`Discord Keylogger`**<br>
 \\___[  Simple keylogger using discord as a C2<br>
@@ -14,7 +14,7 @@
 \\___[  Learning and creating malware (NOW PRIVATED)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`,
 
-- `💰` **`Zenny Stealer`**<br>
+- `💰` **`Zenny Stealer (NOW PRIVATED) `**<br>
 \\___[  Open Source python stealer. For educatinal purposes no obfuscation fully detected by AVs. (Uses samples from others)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
 
