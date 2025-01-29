@@ -10,12 +10,12 @@
 \\___[  Open source osint tool<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
 
-- `💉` **`maldev`**<br>
-\\___[  Learning and creating malware (NOW PRIVATED)<br>
+- `💉` **`maldev (NOW PRIVATED)`**<br>
+\\___[  Learning and creating malware <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`,
 
 - `💰` **`Zenny Stealer (NOW PRIVATED) `**<br>
-\\___[  Open Source python stealer. For educatinal purposes no obfuscation fully detected by AVs. (Uses samples from others)<br>
+\\___[  Open Source python stealer. For educatinal purposes no obfuscation fully detected by AVs.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
 
 
