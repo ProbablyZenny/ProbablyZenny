@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminess+Nerd+Font+Mono&size=20&duration=2000&pause=1000&color=0000AE&background=FFFFFF00&vCenter=true&random=true&width=540&height=40&lines=omg+is+that+zenny;zenny+im+a+big+fan;zenny+im+stalking+your+profile;is+that+really+you+zenny%3F)](https://git.io/typing-svg)
+
+
 💬 **Zenny**: College / cybersecurity student and an offensive security enthusiast focusing on offensive development, operating system internals, reverse engineering, and red teaming.
 
 🌱 **Projects**:
@@ -24,7 +27,7 @@
 ⭐ **Certifications**:    `C|EH Practical`, `CRTP`, `CRTE`, `OSCP*`, `PNPT*`
 
 ## `👨‍💻` DEVELOPMENT
-[![](https://skillicons.dev/icons?i=python,bash,powershell,visualstudio,vscode,arch,windows)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=redhat,python,dotnet,mysql,bash,powershell,visualstudio,vscode,windows)](https://skillicons.dev)
 
 
 ## `🤳` SOCIALS
