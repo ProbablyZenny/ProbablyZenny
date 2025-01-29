@@ -21,6 +21,9 @@
 \\___[  Open Source stealer. For educatinal purposes no obfuscation fully detected by AVs.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Rust`,
 
+- `💰` **`Zenny RAT (NOW PRIVATED) `**<br>
+\\___[  Open source rat. Uses obfuscation from BlankOBF<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
 
 
 
