@@ -30,7 +30,7 @@
 ⭐ **Certifications**:    `C|EH Practical`, `CRTP`, `CRTE`, `OSCP*`, `PNPT*`
 
 ## `👨‍💻` DEVELOPMENT
-[![](https://skillicons.dev/icons?i=redhat,python,dotnet,mysql,bash,powershell,visualstudio,vscode,windows)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,cpp,cs,rust,python,bash,powershell,dotnet,neovim,vim,visualstudio,vscode,arch,windows,github,docker,redhat)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://linktr.ee/z.e.n.n.y">
