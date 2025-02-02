@@ -33,5 +33,7 @@
 [![](https://skillicons.dev/icons?i=redhat,python,dotnet,mysql,bash,powershell,visualstudio,vscode,windows)](https://skillicons.dev)
 
 <p align="center">
-  <img width="5000" src="https://i.pinimg.com/originals/29/39/d7/2939d706dfaf7a291555a73316059233.gif">
+  <a href="https://linktr.ee/z.e.n.n.y">
+    <img width="5000" src="https://i.pinimg.com/originals/29/39/d7/2939d706dfaf7a291555a73316059233.gif">
+  </a>
 </p>
