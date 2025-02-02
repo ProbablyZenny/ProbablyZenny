@@ -15,14 +15,14 @@
 
 - `💉` **`maldev (NOW PRIVATED)`**<br>
 \\___[  Learning and creating malware <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c++ / rust`,
 
 - `💰` **`Zenny Stealer (NOW PRIVATED) `**<br>
-\\___[  Open Source stealer. For educatinal purposes no obfuscation fully detected by AVs.<br>
+\\___[  Open Source stealer. Compatiable with PureCrypter, ByteCrypt v3, and Phantom Crypter<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Rust`,
 
 - `🐀` **`Zenny RAT (NOW PRIVATED) `**<br>
-\\___[  Open source rat. Uses obfuscation from BlankOBF<br>
+\\___[  Open source rat. Its written in python so only for learning really.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
 
 
