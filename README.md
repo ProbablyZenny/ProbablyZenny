@@ -32,7 +32,6 @@
 ## `👨‍💻` DEVELOPMENT
 [![](https://skillicons.dev/icons?i=redhat,python,dotnet,mysql,bash,powershell,visualstudio,vscode,windows)](https://skillicons.dev)
 
-
-## `🤳` SOCIALS
-
-**Socials can be found linked on profile**
+<p align="center">
+  <img width="5000" src="https://i.pinimg.com/originals/29/39/d7/2939d706dfaf7a291555a73316059233.gif">
+</p>
