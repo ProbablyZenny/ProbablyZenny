@@ -3,27 +3,6 @@
 
 💬 **Zenny**: College / cybersecurity student and an offensive security enthusiast focusing on offensive development, operating system internals, reverse engineering, and red teaming.
 
-🌱 **Projects**:
-
-- `🔑` **`Discord Keylogger`**<br>
-\\___[  Bare bones keylogger using discord as a C2<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
-
-- `🌙` **`NightFall`**<br>
-\\___[  Open source osint tool<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
-
-- `💉` **`maldev (NOW PRIVATED)`**<br>
-\\___[  Learning and creating malware <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c++ / rust`,
-
-- `💰` **`Zenny Stealer (NOW PRIVATED) `**<br>
-\\___[  Open Source stealer. Compatiable with PureCrypter, ByteCrypt v3, and Phantom Crypter<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Rust`,
-
-- `🐀` **`Zenny RAT (NOW PRIVATED) `**<br>
-\\___[  Open source rat. Its written in python so only for learning really.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
 
 
 
