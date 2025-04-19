@@ -25,8 +25,3 @@
 ## `👨‍💻` DEVELOPMENT
 [![](https://skillicons.dev/icons?i=c,cpp,cs,rust,python,bash,powershell,dotnet,neovim,vim,visualstudio,vscode,windows,github,redhat)](https://skillicons.dev)
 
-<p align="center">
-  <a href="https://linktr.ee/z.e.n.n.y">
-    <img width="5000" src="https://i.pinimg.com/originals/29/39/d7/2939d706dfaf7a291555a73316059233.gif">
-  </a>
-</p>
