@@ -23,5 +23,5 @@
 ⭐ **Certifications**:    `C|EH Practical`, `CRTP`, `CRTE`, `OSCP*`, `PNPT*`
 
 ## `👨‍💻` DEVELOPMENT
-[![](https://skillicons.dev/icons?i=c,cpp,cs,rust,python,bash,powershell,dotnet,neovim,vim,visualstudio,vscode,windows,github,redhat)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,cpp,cs,rust,python,bash,powershell,dotnet,visualstudio,vscode,windows,github,redhat)](https://skillicons.dev)
 
