@@ -9,8 +9,8 @@
  
 
  
-- `💰` **`Zenny Stealer (NOW PRIVATED) `**<br>
-     \\___[  Open Source stealer. For educatinal purposes no obfuscation fully detected by AVs.<br>
+- `💰` **`Stealer (NOW PRIVATED) `**<br>
+     \\___[  Open Source stealer for learning purposes. No obfuscation fully detected by AVs.<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Rust`,
  
 
