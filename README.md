@@ -16,7 +16,7 @@
 
  
 - `🐀` **`Zenny RAT `**<br>
-      \\___[  Open source rat.<br>
+      \\___[  Open source rat. Code taken from many different open source projects.<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
 
 
