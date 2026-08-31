@@ -15,8 +15,8 @@
  
 
  
-- `🐀` **`Zenny RAT (NOW PRIVATED) `**<br>
-      \\___[  Open source rat. Uses obfuscation from BlankOBF<br>
+- `🐀` **`Zenny RAT `**<br>
+      \\___[  Open source rat.<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
 
 
