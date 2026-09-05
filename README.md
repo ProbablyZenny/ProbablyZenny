@@ -18,7 +18,15 @@
 - `🐀` **`Zenny RAT `**<br>
       \\___[  Open source rat. Code taken from many different open source projects.<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
+ 
 
+ 
+- `🔑` **`Discord Logger `**<br>
+      \\___[  Simple keylogger that uses discord as a C2.<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`,
+
+
+ 
 ## `👨‍💻` DEVELOPMENT
 [![](https://skillicons.dev/icons?i=rust,python,c,cpp,cs,bash,powershell,dotnet,visualstudio,vscode,windows,github,redhat)](https://skillicons.dev)
 
